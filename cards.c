@@ -5,8 +5,6 @@
  
  AUTHOR: Jessica Fernandez-Rubio
  
- PID   : 5795311
- 
  Programming III. Fourth Assignment
  
  PROGRAM DESCRIPTION: This program implements a simulation of a deck of
